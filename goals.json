@@ -1,0 +1,39 @@
+[
+    {
+        "title": "q",
+        "specific": "q",
+        "measurable": "q",
+        "achievable": "[\"\",\"\"]",
+        "realistic": "[\"\",\"\"]",
+        "time_bound": ""
+    },
+    {
+        "title": "d",
+        "specific": "d",
+        "measurable": "d",
+        "achievable": "d",
+        "realistic": "d",
+        "time_bound": "d"
+    },
+    {
+        "title": "test",
+        "specific": [
+            "t",
+            "t",
+            "t",
+            "t"
+        ],
+        "measurable": "xD",
+        "achievable": "sss",
+        "realistic": "fs",
+        "time_bound": "sddg"
+    },
+    {
+        "title": "a",
+        "specific": "a",
+        "measurable": "a",
+        "achievable": "a",
+        "realistic": "a",
+        "time_bound": "a"
+    }
+]
